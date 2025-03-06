@@ -1,2 +1,2 @@
 # vizsga
-aki ide ír az buzi
+Hello w
